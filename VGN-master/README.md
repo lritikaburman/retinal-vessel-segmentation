@@ -55,6 +55,6 @@ Two example results, each of which is from the STARE and CHASE_DB1 datasets. The
   issn = "1361-8415",
   doi = "https://doi.org/10.1016/j.media.2019.101556",
   url = "http://www.sciencedirect.com/science/article/pii/S1361841519300982",
-  author = "Seung Yeon Shin and Soochahn Lee and Il Dong Yun and Kyoung Mu Lee",
+
 }
 ```
